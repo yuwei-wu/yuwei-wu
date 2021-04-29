@@ -23,4 +23,4 @@ I'm convinced that robots can change our life and improve the development of soc
 
 #### 💬 Q&A
 
-I'm open to any discussions concerning technical, academic, and life... Anyway, feel free to contact me! 
+- I'm open to any discussions concerning technical, academic, and life... Anyway, feel free to contact me! 
