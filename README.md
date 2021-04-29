@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi, welcome to my git!
 
-<!--
-**yuwei-wu/yuwei-wu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:sparkles: Let's explore something interesting together~
 
-Here are some ideas to get you started:
+#### 🍃 Current Status
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m currently working on motion planning, with the supervision of Professor Fei Gao, at Fast lab, Zhejiang University(ZJU). 
+Many cool guys here are sincerely interested in research and focus on developing quadrotors in various aspects (mechanic, electrical, and algorithmic areas) 
+I really admire and thank them for leading me to the world of quadrotors!
+
+####  :notes: About Me
+
+- Now, I pursue my master's degree:mortar_board: at the University of Pennsylvania, majoring in Systems Engineering. 
+Actually, my major is transportation engineering during my undergraduate study.
+I SWITCH to EE because I am interested in looking deeper into the field of autonomous systems, not only the high-level planning or management of the whole system. 
+*My brother also majors in autonomous control at ZJU and now an algorithm engineer about NLP lol.
+
+- The profile picture is my hand-drawn. 🌸 I enjoy painting during my rest time. (inspired by comedies and cartoons). 
+
+#### 🍂 Lifelong Goal ... 
+
+- Robotic scientist! I wish I can do research and make contributions to this field throughout my whole life. 
+I'm convinced that robots can change our life and improve the development of society.
+
+#### 💬 Q&A
+
+I'm open to any discussions concerning technical, academic, and life... Anyway, feel free to contact me! 
