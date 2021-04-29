@@ -4,7 +4,7 @@
 
 #### 🍃 Current Status
 
-- I’m currently working on motion planning, with the supervision of Professor Fei Gao, at Fast lab, Zhejiang University(ZJU). 
+- I’m working on motion planning, with the supervision of Professor Fei Gao, at Fast lab, Zhejiang University (ZJU). 
 Many cool guys here are sincerely interested in research and focus on developing quadrotors in various aspects (mechanic, electrical, and algorithmic areas) 
 I really admire and thank them for leading me to the world of quadrotors!
 
@@ -15,8 +15,7 @@ Actually, my major is transportation engineering during my undergraduate study.
 I SWITCH to EE because I am interested in looking deeper into the field of autonomous systems, not only the high-level planning or management of the whole system. 
 *My brother also majors in autonomous control at ZJU and now an algorithm engineer about NLP lol.
 
-- The profile picture is my hand-drawn. 🌸 I enjoy painting during my rest time. (inspired by comedies and cartoons). 
-
+- The profile picture is my hand-drawn. 🌸 Inspired by comedies and cartoons, I enjoy painting in leisure time.
 #### 🍂 Lifelong Goal ... 
 
 - Robotic scientist! I wish I can do research and make contributions to this field throughout my whole life. 
