@@ -9,7 +9,7 @@
   - You are interested in exploring research topics, particularly in planning.
   - You are a Penn student looking to pursue an independent study or thesis under my guidance.
   
-### 1. Open-Source
+### Open-Source
 
 I am passionate about open sourcing to benefit the entire robotics community.
 
@@ -19,19 +19,20 @@ I am passionate about open sourcing to benefit the entire robotics community.
 - [kr_param_yaw](https://github.com/KumarRobotics/kr_param_yaw): A trajectory optimization method with global yaw parameterization
 
 
-#### 1.1 Motion planning 
+#### 1. Motion planning 
 
 - [AllocNet](https://github.com/KumarRobotics/AllocNet): A lightweight learning-based trajectory optimization framework.
 - [forces_resilient_planner](https://github.com/ZJU-FAST-Lab/forces_resilient_planner): A systematic framework for local planning under external disturbance.
 
-#### 1.2 Environment representation
+#### 2. Environment representation
 
 
-#### 1.3 Simulation and benchmarks
+#### 3. Simulation and benchmarks
 
 - [kr_mp_design](https://github.com/KumarRobotics/kr_mp_design): A guidance for the design and evaluation of motion planners for quadrotors
 - [kr_param_map](https://github.com/KumarRobotics/kr_param_map): A parameterized map generator for planning evaluations and benchmarking
-#### 1.3 More collaboration works 
+
+#### 4. More collaboration works 
 
 - [SEER](https://github.com/tyuezhan/SEER): Safe Efficient Exploration for Aerial Robots using Learning to Predict Information Gain
 - [DZone_Tracking](https://github.com/Zhourobotics/DZone_Tracking): A risk-aware multi-agent target tracking framework with sensing and communication danger zones
