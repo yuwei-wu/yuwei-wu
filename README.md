@@ -36,6 +36,7 @@ I am passionate about open sourcing to benefit the entire robotics community.
 
 - [SEER](https://github.com/tyuezhan/SEER): Safe Efficient Exploration for Aerial Robots using Learning to Predict Information Gain
 - [DZone_Tracking](https://github.com/Zhourobotics/DZone_Tracking): A risk-aware multi-agent target tracking framework with sensing and communication danger zones
+- [resilient-target-tracking](https://github.com/Zhourobotics/resilient-target-tracking): A resilient and adaptive multi-robot target tracking framework with sensing and communication danger zones
 - [drl_lc_exploration](https://github.com/M4D-SC1ENTIST/drl_lc_exploration): A multi-agent cooperative exploration in sparse landmark complex environments
 
 
