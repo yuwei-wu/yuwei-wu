@@ -13,9 +13,8 @@
 
 I am passionate about open sourcing to benefit the entire robotics community.
 
-#### under construction (in this order I will work on it)
+#### under construction (in this order, I will work on it)
 
-- [kr_opt_sfc](https://github.com/KumarRobotics/kr_opt_sfc): A tool to find optimal convex cover to approximate collision-free space
 - [kr_param_yaw](https://github.com/KumarRobotics/kr_param_yaw): A trajectory optimization method with global yaw parameterization
 
 
@@ -26,6 +25,7 @@ I am passionate about open sourcing to benefit the entire robotics community.
 
 #### 2. Environment representation
 
+- [kr_opt_sfc](https://github.com/KumarRobotics/kr_opt_sfc): A tool to find optimal convex cover to approximate collision-free space
 
 #### 3. Simulation and benchmarks
 
