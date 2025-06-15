@@ -41,8 +41,8 @@ I am passionate about open sourcing to benefit the entire robotics community.
 - [hierarchical-llms](https://github.com/Zhourobotics/hierarchical-llms): A hierarchical Large Language Models (LLMs) framework for real-time multi-robot task allocation and target tracking with unknown hazards
 
 
-<!---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuwei-wu)](https://github.com/anuraghazra/github-readme-stats)
---->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuwei-wu)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yuwei-wu)](https://git.io/streak-stats)
