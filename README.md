@@ -1,7 +1,5 @@
 ## Hi, welcome to my git! :potted_plant:
 
-<img src="https://komarev.com/ghpvc/?username=yuwei-wu&color=brightgreen" alt="watching_count" />
-
 
 - I'm a Ph.D. student at UPenn ESE, working on motion planning for robots, with the supervision of Professor Vijay Kumar.
 - My research interests are:
@@ -55,6 +53,14 @@ I am passionate about open sourcing to benefit the entire robotics community.
 - [kr_param_yaw](https://github.com/KumarRobotics/kr_param_yaw): A trajectory optimization method with global yaw parameterization
 
 
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuwei-wu&layout=compact&hide=Makefile,HTML&langs_count=6&theme=dracula"
+       style="height:150px;"
+  />
+  <img 
+       src="https://streak-stats.demolab.com/?user=yuwei-wu&theme=bear"
+       style="height:150px;"
+  />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuwei-wu&layout=compact&hide=Makefile,HTML&langs_count=6&theme=nightowl&line_height=60)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yuwei-wu&theme=bear)](https://git.io/streak-stats)
