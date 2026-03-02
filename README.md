@@ -25,6 +25,7 @@ I am passionate about open sourcing to benefit the entire robotics community.
 
 #### 3. Simulation and benchmarks
 
+- [SPAR](https://github.com/KumarRobotics/SPAR): Automatically generate valid, diverse, and semantically accurate PDDL domains from natural language input for single and multiple UAV missions.
 - [kr_mp_design](https://github.com/KumarRobotics/kr_mp_design): A guidance for the design and evaluation of motion planners for quadrotors
 - [kr_param_map](https://github.com/KumarRobotics/kr_param_map): A parameterized map generator for planning evaluations and benchmarking (ROS1 & ROS2 compatible)
 
