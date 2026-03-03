@@ -46,10 +46,9 @@ I am passionate about open sourcing to benefit the entire robotics community.
 - Trajectory Optimization
    - [GCOPTER (revised)](https://github.com/yuwei-wu/GCOPTER): A revised version optimized for benchmarking, compatible with both ROS1 and ROS2, and available in a pure C++ implementation.
 - Utils
-   - [utils](https://github.com/yuwei-wu/utils): A collection of utility functions and helper scripts for robotics-related development.
+   - [research_toolkit](https://github.com/yuwei-wu/research_toolkit): A collection of utility functions and helper scripts for robotics-related development.
 
-
-#### under construction (in this order, I will work on it)
+#### under construction
 
 - [kr_param_yaw](https://github.com/KumarRobotics/kr_param_yaw): A trajectory optimization method with global yaw parameterization
 
