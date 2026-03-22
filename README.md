@@ -45,9 +45,7 @@ I am passionate about open sourcing to benefit the entire robotics community.
    - [planner_interface](https://github.com/yuwei-wu/planner_interface): A modular library for polynomial trajectory parameterization and representation for trajectory planning. (ROS2)
 - Trajectory Optimization
    - [GCOPTER (revised)](https://github.com/yuwei-wu/GCOPTER): A revised version optimized for benchmarking, compatible with both ROS1 and ROS2, and available in a pure C++ implementation.
-- Utils
-   - [research_toolkit](https://github.com/yuwei-wu/research_toolkit): A collection of utility functions and helper scripts for robotics-related development.
-
+     
 #### under construction
 
 - [kr_param_yaw](https://github.com/KumarRobotics/kr_param_yaw): A trajectory optimization method with global yaw parameterization
