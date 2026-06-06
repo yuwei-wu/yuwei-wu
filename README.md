@@ -16,6 +16,7 @@ I am passionate about open sourcing to benefit the entire robotics community.
 
 #### 1. Motion planning 
 
+- [SIMP](https://github.com/KumarRobotics/SIMP): A safe interval motion planning framework for quadrotors with dynamic moving obstacles.
 - [AllocNet](https://github.com/KumarRobotics/AllocNet): A lightweight learning-based trajectory optimization framework. (ROS1)
 - [forces_resilient_planner](https://github.com/ZJU-FAST-Lab/forces_resilient_planner): A systematic framework for local planning under external disturbance. (ROS1)
 
